@@ -1,2 +1,2 @@
-# OffSamuraj.github.io
+# OffSamuraj
 My first published site
